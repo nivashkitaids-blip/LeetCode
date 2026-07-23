@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0054-spiral-matrix) |
 ## Backtracking
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
