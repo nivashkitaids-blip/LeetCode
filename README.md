@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0015-3sum) |
 | [0051-n-queens](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0054-spiral-matrix) |
 ## Backtracking
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
