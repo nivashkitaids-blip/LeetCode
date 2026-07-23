@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0015-3sum) |
 | [0051-n-queens](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0054-spiral-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0015-3sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
