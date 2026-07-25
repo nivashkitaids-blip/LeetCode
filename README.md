@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0704-binary-search](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
