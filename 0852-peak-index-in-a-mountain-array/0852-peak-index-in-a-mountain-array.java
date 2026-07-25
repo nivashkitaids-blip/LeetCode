@@ -9,15 +9,15 @@ class Solution {
             if(mid > 0 && mid < arr.length-1  && arr[mid]>arr[mid-1] && arr[mid]>arr[mid+1]){
                 return mid;
             }
-            else if(arr[mid] < arr[mid+1]){
-                i=mid+1;
+            else if(arr[mid] > arr[mid+1]){
+                j=mid-1;
             
             }
             else{
-                j=mid-1;
+                i=mid+1;
             }
         }
-        return -1;
+        return i;
         
     }
 }
