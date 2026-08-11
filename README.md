@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0189-rotate-array) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
