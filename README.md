@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
