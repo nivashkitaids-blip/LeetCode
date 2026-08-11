@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int singleNumber(int[] nums) {
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int x : nums){
@@ -12,4 +12,14 @@ class Solution {
         return -1;
         
     }
-}
+}*/
+
+class Solution {
+    public int singleNumber(int[] nums) {
+        int ans = 0;
+        for (int num : nums) {
+            ans ^= num;
+        }
+        return ans;
+    }
+}     
