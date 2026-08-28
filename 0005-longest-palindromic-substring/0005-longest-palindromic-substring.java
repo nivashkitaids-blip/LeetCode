@@ -1,50 +1,29 @@
 class Solution {
-
-    public int validpalin(int i, int j, String s) {
-
-        int count = 0;
-
-        while (i >= 0 && j < s.length()) {
-
-            if (s.charAt(i) != s.charAt(j)) {
-                return count;
+    public String longestPalindrome(String s) {
+        if(s==null || s.length()<1 ) return "";
+        int st = 0;
+        int e = 0;
+        for(int i =0;i<s.length();i++){
+            int l1 = fuc(s,i,i);
+            int l2 = fuc(s,i,i+1);
+            int len = Math.max(l1,l2);
+            if(len>e-st){
+                st = i-(len-1)/2;
+                e = i+len/2;
             }
-
-            count++;
-            i--;
-            j++;
+            
         }
-
-        return count;
+        return s.substring(st,e+1);
     }
 
-    public String longestPalindrome(String s) {
 
-        String res = "";
-        int resLength = 0;
-
-        for (int k = 0; k < s.length(); k++) {
-
-            // Odd length palindrome
-            int len = validpalin(k, k, s);
-
-            if (2 * len - 1 > resLength) {
-                resLength = 2 * len - 1;
-                res = s.substring(k - len + 1, k + len);
-            }
-
-            // Even length palindrome
-            if (k < s.length() - 1 && s.charAt(k) == s.charAt(k + 1)) {
-
-                len = validpalin(k, k + 1, s);
-
-                if (2 * len > resLength) {
-                    resLength = 2 * len;
-                    res = s.substring(k - len + 1, k + len + 1);
-                }
-            }
+    public  int fuc(String s, int left,int right){
+        int l = left;
+        int r = right;
+        while(l>=0 && r<s.length() && s.charAt(l)==s.charAt(r)){
+            l--;
+            r++;
         }
-
-        return res;
+        return r-l-1;
     }
 }
