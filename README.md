@@ -309,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
