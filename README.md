@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0051-n-queens) |
+| [0494-target-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -361,10 +364,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
