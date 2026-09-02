@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0494-target-sum) |
 ## Matrix
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0231-power-of-two) |
 ## Stack
