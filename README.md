@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0518-coin-change-ii) |
