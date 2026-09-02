@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/nivashkitaids-blip/LeetCode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
